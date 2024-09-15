@@ -4,7 +4,7 @@ Laravel CRUD for Images
 1. Download image-crud
 2. Copy folder to Laravel projects folder
 3. Copy image-crud\.env.example to image-crud\.env
-4. cd image-crud
+4. CLI: cd image-crud
 5. composer install
 6. php artisan key:generate
 7. mysql -u root -p -e "CREATE DATABASE image_crud"
